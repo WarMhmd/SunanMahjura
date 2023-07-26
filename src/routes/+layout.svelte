@@ -5,7 +5,6 @@
 	<header />
 
 	<main>
-		sad
 		<slot />
 	</main>
 
