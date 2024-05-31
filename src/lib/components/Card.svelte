@@ -5,7 +5,7 @@
 
 	let opened = false;
 
-	$: body = body.trim().replaceAll('\n', '<br/>');
+	$: body = body.trim().replaceAll('\n', '<br />');
 </script>
 
 <div class="card | VerticalStack">
